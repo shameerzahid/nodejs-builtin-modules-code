@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "name": "builtin-modules",
+  "version": "1.0.0",
+  "main": "ASYNC-FS.js",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "start": "node ASYNC-FS.js",
+    "dev": "nodemon Promiseswithfs.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
